@@ -1,0 +1,28 @@
+body {
+  color: #d94500;
+  font-family: cursive;
+}
+div {
+  min-height: 10vh;
+  width: 100vw;
+}
+h1,h2, {
+  text-align: center;
+}
+h1 {
+  font-size: 2.5em;
+}
+img {
+  display: flex;
+  padding: 20px;
+margin: 0 auto;
+  border-radius: 130px;
+}
+p {
+  width: 80%;
+  margin: 10vh 10vw;
+  font-size: 0.99em;
+}
+a {
+  color: rgb(0,0,0);
+}
